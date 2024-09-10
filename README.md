@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-komit 2
+komit 3
